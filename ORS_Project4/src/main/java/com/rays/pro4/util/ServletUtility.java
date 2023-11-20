@@ -109,7 +109,7 @@ public class ServletUtility {
 			 *
 			 * @param msg     the msg
 			 * @param request the request
-			 * @deprecated Use HTMLUtil method instead
+			 * @Deprecated Use HTMLUtil method instead
 			 */
 	public static String getErrorMessageHtml(HttpServletRequest request) {
 
